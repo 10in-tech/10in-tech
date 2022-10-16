@@ -5,31 +5,7 @@
 - 📫 How to reach me? try send a email to developer@10in.com and will soon get response.
 
 
-- 开源项目
-
-	- 实仁八字算法(php-sdk)
-
-    ```bash
-    composer require shiren/tam
-    ```
-
-	- 实仁-六爻算法(php-sdk)
-
-    ```bash
-    composer require shiren/yao
-    ```
-
-	- 实仁八字排盘(js-sdk)
-
-    ```bash
-    npm i shiren-columns
-    ```
-
-	- 实仁日历算法(js-sdk)
-
-    ```
-    npm i shiren-calendar
-    ```
+更多代码分享参考 @10-in
 
 
 <!---
