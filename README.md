@@ -5,7 +5,7 @@
 - 📫 How to reach me? try send a email to developer@10in.com and will soon get response.
 
 
-更多代码分享参考 @10-in
+更多代码分享参考 [碧海](https://github.com/10-in)
 
 
 <!---
